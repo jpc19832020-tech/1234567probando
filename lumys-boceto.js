@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.1 seconds
-Output:
 const revealItems = document.querySelectorAll(".reveal");
 
 const revealObserver = new IntersectionObserver(
